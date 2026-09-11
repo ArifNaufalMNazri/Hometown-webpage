@@ -1,0 +1,138 @@
+body{
+  font-family: "Caacupe One", sans-serif;
+  color: #FFF4DE;
+  margin: 0;
+}
+
+#hero{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp2toScBd3mqpsMT7JL7M7CumosoixcsN-8zl5vEvhhHf6AMu5kL65srU&s=10");
+  background-size: contain;
+  background-position: center;
+  width: 100%;
+  height: 275px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero-header{
+  font-weight: 800px;
+  background-color: #A0859D;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+#activities{
+  color: #1E85C5;
+  text-align: center;
+}
+
+#list{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.card{
+  height: 250px;
+  width: 20%;
+  background-color: #515959;
+  border-radius: 10px;
+  color: #FFF4DE;
+  text-shadow: 0px 0px 5px black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  box-shadow: 0px 4px 6px black;
+}
+
+.card:hover{
+  transform: translateY(-5px);
+  border: 1px solid #1E85C5;
+  box-shadow: 0px 6px 8px black;
+}
+
+.img-card{
+  background-size: cover;
+  background-position: center;
+  border-radius: 10px 10px 0px 0px;
+  height: 100px;
+  width: 100%;
+}
+
+#img-card1{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvOzRcCTZOaG22tl8YRpwFgFiRwLLvMbI3g6vs0fC8Q&s=10");
+}
+
+#img-card2{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSObsIqI5Q1qFDC-lVKtTzkRqE4YqK8892GHu-j5lnfwA&s=10");
+}
+
+#img-card3{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk0BJWID6JerRoio-VcPcJN6TU8tx3ePddH_ij7RsTzg&s=10");
+
+}
+
+.link{
+  color: #FFF4DE;
+}
+
+.link:hover{
+  color: blue;
+}
+
+
+.link-container:hover{
+  transform: translateY(-px);
+}
+
+.description{
+  height: 50%;
+}
+
+h3 {
+  letter-spacing: 1px;
+}
+
+#tour-guide{
+  display: flex;
+  justify-content: center;
+}
+
+#tour-card{
+  background: #477CA2;
+  border-radius: 20px;
+  margin: 50px 40px;
+  height: 200px; 
+  width: 400px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-bottom: 5px solid #0F3952;
+  box-shadow: 0px 0px 5px black;
+}
+
+#face-img{
+  background-image: url("https://avatars.githubusercontent.com/u/232370564?v=4");
+  background-size: cover;
+  border-radius: 35%;
+  height: 150px;
+  width: 125px;
+  box-shadow: 0px 0px 5px black;
+}
+
+#description{
+  background: #0A2A34;
+  height: 180px;
+  width: 200px;
+  border-radius: 10px;
+  text-align: center;
+  letter-spacing: 0.5px;
+}
+
+.description-words{
+  margin-bottom: 5px;
+}
