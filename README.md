@@ -9,7 +9,7 @@ I am currently tackling a freecodecamp youtube course on full-stack web developm
 </p>
 
 ### Brief description
-This project showcases some interesting activites to do in Shah Alam, Malaysia, with me offering to be a tour guide(I'm not actually one though, that was just for the project.)
+This project showcases some fun activites to do in Shah Alam, Malaysia, with me offering to be a tour guide(I'm not actually one though, that was just for the project.)
 
 <p align = "center">
 <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIwJBmErQ7yvsU0QZ54ed48h4nNQgd-oNs6XYvdeHIiA&s" alt = "Blue mosque in Shah Alam, Selangor">
