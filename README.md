@@ -1,4 +1,4 @@
-# Hometown Webpage-Shah Alam
+# Hometown Webpage--Shah Alam, my home city
 I took my first steps into front-end development and made a hometown webpage project using HTML and CSS
 
 ## The story
